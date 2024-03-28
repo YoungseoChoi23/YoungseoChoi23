@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoungseoChoi23
-- 👀 I’m interested in Web Frontend
+- 👀 I’m interested in Web Frontend & Flutter
 - 🌱 I’m currently learning mobile Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dudtj9326@ewahin.net
