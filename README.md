@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoungseoChoi23
-- 👀 I’m interested in Infrastructure & Devops & Web Frontend 
+- 👀 I’m interested in Cloud & Devops & Web Frontend 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dudtj9326@gmail.com
